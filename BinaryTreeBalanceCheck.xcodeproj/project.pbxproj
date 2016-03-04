@@ -14,6 +14,7 @@
 		9C8EA6621C893EBD009E8457 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C8EA6601C893EBD009E8457 /* LaunchScreen.storyboard */; };
 		9C8EA66D1C893EBD009E8457 /* BinaryTreeBalanceCheckTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8EA66C1C893EBD009E8457 /* BinaryTreeBalanceCheckTests.swift */; };
 		9C8EA6781C893EBD009E8457 /* BinaryTreeBalanceCheckUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8EA6771C893EBD009E8457 /* BinaryTreeBalanceCheckUITests.swift */; };
+		9C8EA6861C893F7E009E8457 /* Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8EA6851C893F7E009E8457 /* Solution.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9C8EA6731C893EBD009E8457 /* BinaryTreeBalanceCheckUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BinaryTreeBalanceCheckUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C8EA6771C893EBD009E8457 /* BinaryTreeBalanceCheckUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryTreeBalanceCheckUITests.swift; sourceTree = "<group>"; };
 		9C8EA6791C893EBD009E8457 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C8EA6851C893F7E009E8457 /* Solution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Solution.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				9C8EA65E1C893EBD009E8457 /* Assets.xcassets */,
 				9C8EA6601C893EBD009E8457 /* LaunchScreen.storyboard */,
 				9C8EA6631C893EBD009E8457 /* Info.plist */,
+				9C8EA6851C893F7E009E8457 /* Solution.swift */,
 			);
 			path = BinaryTreeBalanceCheck;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				9C8EA65A1C893EBD009E8457 /* ViewController.swift in Sources */,
 				9C8EA6581C893EBD009E8457 /* AppDelegate.swift in Sources */,
+				9C8EA6861C893F7E009E8457 /* Solution.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
